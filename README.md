@@ -1,13 +1,8 @@
-### Hi there 👋
-
-# Olá, me chamo Larissa ! 
-## Bem vindo ao meu perfil GitHub 👋  
-
-- 🔭 Atualmente estou estudando no Colegio Marista cursando o ensino médio.
-- 🌱 Estou  fazendo um curso técnico em T.I (tecnologia da informação).
-- 💬 Sou de Londrina, PR.
+- 👋 Olá, sou Larissa tenho 16 anos.  
+- 🌱 Atualmente estou estudando no Colégio Marista cursando o ensino médio.
+- 📍  Sou de Londrina/PR.
   
-- ##  📫 Como entrar em contato comigo:
+- ##  📫 Contato:  
 <div>
   <a href="https://instagram.com/llari_manrique" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Larissa Manrique" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
