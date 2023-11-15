@@ -1,12 +1,20 @@
 - 👋 Olá, sou Larissa tenho 16 anos.  
 - 🌱 Atualmente estou estudando no Colégio Marista cursando o ensino médio.
+- 💻 Estou me dedicando ao curso técnico em Tecnologia da Informação (T.I).
 - 📍  Sou de Londrina/PR.
-  
+
+### 💻 Habilidades
+- HTML | CSS | JavaScript
+
+
 - ##  📫 Contato:  
 <div>
   <a href="https://instagram.com/llari_manrique" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-manrique-6a1473245/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+
+
 
 
 
