@@ -1,4 +1,4 @@
-- 👋 Olá, sou Larissa tenho 16 anos.  
+- 👋 Olá, sou Larissa.  
 - 🌱 Atualmente estou estudando no Colégio Marista cursando o ensino médio.
 - 💻 Estou me dedicando ao curso técnico em Tecnologia da Informação (T.I).
 - 📍  Sou de Londrina/PR.
