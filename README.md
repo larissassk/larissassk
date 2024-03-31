@@ -1,14 +1,14 @@
-# 👋 Olá, eu sou Larissa!
+👋 Olá, eu sou Larissa!
 
 🌱 Atualmente estou no Colégio Marista, cursando o ensino médio e me dedicando ao curso técnico em Tecnologia da Informação (TI).
 
 📍 Sou de Londrina, PR.
 
-## 💻 Habilidades
-
+💻 Habilidades:
 - HTML
 - CSS
 - JavaScript
+- PHP
 
 📫 **Contato:** 
 <div>
