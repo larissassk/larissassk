@@ -1,8 +1,12 @@
 ## 👋 Olá!
-Me chamo Larissa, sou estudante do Ensino Médio e estou cursando técnico em Tecnologia da Informação (TI) no Colégio Marista, em Londrina, PR.
+Sou a Larissa, estou no Ensino Médio e fazendo técnico em TI no Colégio Marista, em Londrina, PR.
 
 ## 🚀 Skills 
-<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
+<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
+<img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> 
+<img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
 
 ## 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissassk&show_icons=true&theme=tokyonight"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissassk&layout=compact&theme=tokyonight"/>
