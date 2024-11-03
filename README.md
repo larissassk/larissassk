@@ -15,6 +15,6 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### 📫 Contato:
-Você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/larissa-manrique/).
+Você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/larissa-manrique/). 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
