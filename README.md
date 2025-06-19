@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hi!+I'm+Larissa,+passionate+about+Web+Development;+🚀+I+focus+on+solving+everyday+challenges,+improving+my+skills,+and+gaining+more+knowledge+in+the+tech+field;+💻+Always+looking+for+new+learning+opportunities+and+challenges!)](https://git.io/typing-svg)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=larissassk&show_icons=true&count_private=true&hide_border=true&title_color=42b883&icon_color=00bfbf&text_color=c9d1d9&bg_color=222222" alt="Larissa GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissassk&layout=compact&hide_border=true&title_color=42b883&text_color=00bfbf&bg_color=222222" />
