@@ -1,8 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-# Olá! Eu sou a Larissa Manrique! 👋🎨
-
-Desenvolvedora **Frontend** | Entusiasta de **Design UX/UI**.
+# Larissa! 👋
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=larissassk&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=00bfbf&text_color=c9d1d9&bg_color=222222" alt="Larissa GitHub Stats" /> 
@@ -16,7 +14,7 @@ Desenvolvedora **Frontend** | Entusiasta de **Design UX/UI**.
 #### 🖌️ **Frontend & Design**
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![JavaScript](https://img-shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
 #### ⚙️ **Back-end & Ferramentas**
